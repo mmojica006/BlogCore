@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repository\\BlogCore\\BlogCore\\BlogCore.Models\\BlogCore.Models.csproj": {}
+    "C:\\Repository\\NetCoreMVC\\BlogCore\\BlogCore.Models\\BlogCore.Models.csproj": {}
   },
   "projects": {
-    "C:\\Repository\\BlogCore\\BlogCore\\BlogCore.Models\\BlogCore.Models.csproj": {
+    "C:\\Repository\\NetCoreMVC\\BlogCore\\BlogCore.Models\\BlogCore.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repository\\BlogCore\\BlogCore\\BlogCore.Models\\BlogCore.Models.csproj",
+        "projectUniqueName": "C:\\Repository\\NetCoreMVC\\BlogCore\\BlogCore.Models\\BlogCore.Models.csproj",
         "projectName": "BlogCore.Models",
-        "projectPath": "C:\\Repository\\BlogCore\\BlogCore\\BlogCore.Models\\BlogCore.Models.csproj",
-        "packagesPath": "C:\\Users\\Moises Mojica R\\.nuget\\packages\\",
-        "outputPath": "C:\\Repository\\BlogCore\\BlogCore\\BlogCore.Models\\obj\\",
+        "projectPath": "C:\\Repository\\NetCoreMVC\\BlogCore\\BlogCore.Models\\BlogCore.Models.csproj",
+        "packagesPath": "C:\\Users\\Moises Mojica\\.nuget\\packages\\",
+        "outputPath": "C:\\Repository\\NetCoreMVC\\BlogCore\\BlogCore.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Moises Mojica R\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Moises Mojica\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -67,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

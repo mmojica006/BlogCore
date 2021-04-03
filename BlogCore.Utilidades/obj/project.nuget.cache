@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s+kRXdaV1m5vxOraV/IbgKG/Gc+hcvf0yGKrGZG2kXQ94KuXz5eA5Q/UlcxJaR246BQBLhU0YFLyZkrN/TqKUQ==",
+  "dgSpecHash": "+dPeF+6MBGSaqUGMDtBXyhN6anS5jRtk+/CQ9OojG+iT/nJUpbXRBW5u08n3kSl7t+7eA1jINkXVP3tk3efbtQ==",
   "success": true,
-  "projectFilePath": "C:\\Repository\\BlogCore\\BlogCore\\BlogCore.Utilidades\\BlogCore.Utilidades.csproj",
+  "projectFilePath": "C:\\Repository\\NetCoreMVC\\BlogCore\\BlogCore.Utilidades\\BlogCore.Utilidades.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
